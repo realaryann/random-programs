@@ -147,25 +147,4 @@ if a1 == 4:
     types = input("Enter the type you want to convert to: ").strip().capitalize()
     
     ans = conv(x,types)
-    print(ans)
-    
-            
-
-            
-            
-            
-    
-            
-        
-        
-    
-    
-    
-        
-
-
-            
-
-        
-    
-        
+    print(ans)      
