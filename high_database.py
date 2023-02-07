@@ -58,20 +58,3 @@ else:
         elif i =="No":
             break
 print("Thanks for using the highschool database")
-
-
-    
-        
-
-    
-
-        
-
-    
-    
-    
-    
-        
-       
-        
-    
